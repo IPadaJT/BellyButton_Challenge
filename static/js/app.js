@@ -147,10 +147,10 @@ function optionChanged(value) {
 
     // Print updated value
     console.log(value); 
-    // Call all functions 
-    fillMetadata(first_sample);
-    createBarChart(first_sample);
-    createBubbleChart(first_sample)
+    // Update these with the value 
+    fillMetadata(value);
+    createBarChart(value);
+    createBubbleChart(value)
 };
 
 // Call the initialize function
