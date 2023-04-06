@@ -4,6 +4,10 @@
 - The end result was to produce a dashboard that looks like the one below: 
 ![image](https://user-images.githubusercontent.com/117694350/230511736-d30fdb1c-2681-44d7-997c-ac41f0d1376d.png)
 
+## Github Pages
+-The actual interactive version of this assignment is hosted at the following link:
+- https://ipadajt.github.io/BellyButton_Challenge/
+
 
 ## Repository Contents:
 - The most important files in the repository are the index.html, samples.json, and app.js files.
